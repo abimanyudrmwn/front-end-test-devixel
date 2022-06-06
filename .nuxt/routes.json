@@ -1,0 +1,23 @@
+[
+  {
+    "name": "dashboard",
+    "path": "/dashboard",
+    "component": "C:\\\\Users\\\\Aldi\\\\Documents\\\\Kodingan\\\\abimanyudrmwn-frontendtest-devixel\\\\pages\\\\dashboard\\\\index.vue",
+    "chunkName": "pages/dashboard/index",
+    "_name": "_f5e0d352"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\Aldi\\\\Documents\\\\Kodingan\\\\abimanyudrmwn-frontendtest-devixel\\\\pages\\\\login\\\\index.vue",
+    "chunkName": "pages/login/index",
+    "_name": "_16f3da3c"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Aldi\\\\Documents\\\\Kodingan\\\\abimanyudrmwn-frontendtest-devixel\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_4bd40a89"
+  }
+]
